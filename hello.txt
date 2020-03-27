@@ -1,3 +1,5 @@
 hello 
 cat
 human
+hello
+dog
